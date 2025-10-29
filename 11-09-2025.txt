@@ -1,0 +1,13 @@
+Grandeza tem apenas unidade
+Vetor tem direção (força, velocidade, campo elétrico)
+Tamanho da seta (magnitude do vetor)
+Vetor oposto é sempre negativo
+Vetor nulo é zero
+Vetor unitário tem comprimento 1
+
+Operações com vetores
+Soma: 
+
+
+
+
